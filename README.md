@@ -1,7 +1,7 @@
 # cloudhub-notifications
 Create Mac OS notifications for cloud hub events
 
-- Create Mac OS X notifications from Mulesoftcloudhub notifications events.
+- Create Mac OS X notifications from Mulesoft's Cloudhub notifications events.
 
 - To use, add your username and password to monitor.sh and run.
 
